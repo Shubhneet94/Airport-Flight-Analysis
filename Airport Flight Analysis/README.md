@@ -49,7 +49,10 @@ Dashboard includes:
 - Passenger distribution across states analyzed
 
 ## Screenshots
-(Add screenshots here)
+
+## Dashboard Preview
+
+![Dashboard](Images/Dashboard.png)
 
 ## Author
 Shubhneet Tiwari
