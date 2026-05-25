@@ -3,4 +3,4 @@ Airport &amp; Flight Analytics project using MySQL and Power BI
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard.png](Images/Dashboard.png)
